@@ -1,7 +1,7 @@
 # Real-Time Video Language Translation Tool
 This repository contains code that processes video files to recognize speech, display transcriptions, and eventually translate and overlay subtitles on the video in real time. It utilizes various Python libraries for audio processing, video manipulation, and natural language translation.
 
-<span style="color:red">** Note that this software is incomplete and is still in the prototype stage. **</span>
+__** Note that this software is incomplete and is still in the prototype stage. **__
 
 If this software is useful to you, please consider subscribing to my Youtube Channel to help support this and other open-source projects: https://www.youtube.com/@jeoresearch
 
